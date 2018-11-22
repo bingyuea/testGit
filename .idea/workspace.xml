@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b23bbcf0-99b6-4ffb-b991-4113f67d2f12" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -31,16 +30,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
@@ -48,7 +45,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop3" />
+        <entry key="$PROJECT_DIR$" value="develop4" />
       </map>
     </option>
   </component>
@@ -129,7 +126,7 @@
       <option name="presentableId" value="Default" />
       <updated>1542264731659</updated>
       <workItem from="1542264736685" duration="1295000" />
-      <workItem from="1542853430150" duration="247000" />
+      <workItem from="1542853430150" duration="508000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1542264761706</created>
@@ -166,15 +163,21 @@
       <option name="project" value="LOCAL" />
       <updated>1542853480784</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="测试 删除">
+      <created>1542853681027</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1542853681027</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1542000" />
+    <option name="totallyTimeSpent" value="1803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33508956" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -266,6 +269,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -275,13 +285,6 @@
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
